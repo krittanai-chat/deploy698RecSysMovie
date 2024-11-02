@@ -1,6 +1,6 @@
 import streamlit as st
 import pickle
-from surprise imiport SVD
+from surprise import SVD
 
 # Load the model and data
 @st.cache_data
